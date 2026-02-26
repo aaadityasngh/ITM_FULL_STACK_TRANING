@@ -1,0 +1,16 @@
+{
+  "name": "auth-backend",
+  "version": "1.0.0",
+  "description": "This is Auth",
+  "license": "ISC",
+  "author": "Aditya Singh",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
